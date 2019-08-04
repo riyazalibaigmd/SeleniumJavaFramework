@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13590" started-at="2019-08-04T23:24:28Z" finished-at="2019-08-04T23:24:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13590" started-at="2019-08-04T23:24:28Z" finished-at="2019-08-04T23:24:42Z">
+      <class name="test.ExtentReportsDemoWithTestNG">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.ExtentReportsDemoWithTestNG@1810399e]" name="setUp" is-config="true" duration-ms="312" started-at="2019-08-04T23:24:28Z" finished-at="2019-08-04T23:24:29Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:test.ExtentReportsDemoWithTestNG@1810399e]" name="setUpTest" is-config="true" duration-ms="5288" started-at="2019-08-04T23:24:29Z" finished-at="2019-08-04T23:24:34Z">
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="test()[pri:0, instance:test.ExtentReportsDemoWithTestNG@1810399e]" name="test" duration-ms="3263" started-at="2019-08-04T23:24:34Z" finished-at="2019-08-04T23:24:37Z">
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:test.ExtentReportsDemoWithTestNG@1810399e]" name="test2" duration-ms="2045" started-at="2019-08-04T23:24:37Z" finished-at="2019-08-04T23:24:39Z">
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.ExtentReportsDemoWithTestNG@1810399e]" name="tearDown" is-config="true" duration-ms="510" started-at="2019-08-04T23:24:39Z" finished-at="2019-08-04T23:24:40Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:test.ExtentReportsDemoWithTestNG@1810399e]" name="tearDownTest" is-config="true" duration-ms="2141" started-at="2019-08-04T23:24:40Z" finished-at="2019-08-04T23:24:42Z">
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- test.ExtentReportsDemoWithTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
