@@ -25,10 +25,8 @@ public class HeadlessChromeDemo {
 		
 		driver.get("https://www.google.com");
 		System.out.println(driver.getTitle());
-		
 		driver.findElement(By.name("q")).sendKeys("Riyaz Ali");
 		driver.findElement(By.name("q")).sendKeys(Keys.RETURN);
-				
 		driver.close();
 		
 	}
